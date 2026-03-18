@@ -1,6 +1,6 @@
 {
   "version": "1.1",
   "download_url": "https://github.com/Erenthegoat/releases/releases/download/v1.1/Pulse.exe",
-  "changelog": "Added:\n-Multi color\n-Color history\nTray Icon\n\nFixed:\nRate limiting for support",
+  "changelog": "Added:\n-Multi color\n-Color history\n-Tray Icon\n\nFixed:\nRate limiting for support",
   "force_version": "1.1"
 }
